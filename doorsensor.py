@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-##Door Sensor Caleb Lemoine
-
 ##smtp protocol module for email
 import smtplib
 from email.MIMEMultipart import MIMEMultipart
