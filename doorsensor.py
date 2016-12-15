@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-##Door Sensor Nick Rowell, Caleb Lemoine
+##Door Sensor Caleb Lemoine
 
 ##smtp protocol module for email
 import smtplib
