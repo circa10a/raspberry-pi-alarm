@@ -1,5 +1,7 @@
 # raspberry-pi-alarm
-Plays sound file and emails using magnetic door switches 
+Plays sound file and emails using magnetic door switches.
+
+Logs door entries to text file
 
 Requirements:  
 - Raspberry pi with Raspbian installed
